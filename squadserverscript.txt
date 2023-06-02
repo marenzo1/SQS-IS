@@ -1,0 +1,4 @@
+force_install_dir ../../SquadServers/SquadServerTemplate
+login anonymous
+app_update 403240 validate
+quit
